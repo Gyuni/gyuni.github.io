@@ -1,17 +1,17 @@
-site: Sidey
-url: #yoururl
-title: Sidey
+site: my favorite snapshots
+url: https://gyuni.github.io
+title: my favorite snapshots
 description: Simple and minimalistic jekyll blogging theme.
 twitter:
-  username: #yourusername
+  username: myFavSnapshots
   card: summary
-  creator: #yourusername
+  creator: myFavSnapshots
 author:
-  twitter: #yourusername
-  name: #yourusername
-  avatar:
-  email: #youremail
-  url: #yoururl
+  twitter: myFavSnapshots
+  name: 📸
+  avatar: 📸
+  email: my.favorite.snapshots@gmail.com
+  url: https://gyuni.github.io
 permalink: pretty
 
 baseurl: ""
